@@ -1,0 +1,3 @@
+Function statements:
+Function expressions: A unit of code that results in a value
+It doesn't have to save to a variable. Any expression ends up creating a value
