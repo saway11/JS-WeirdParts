@@ -1,0 +1,10 @@
+-first class function: everythin you can do with other types you can do with functions.
+
+-assign them to variables, pass them around as parameters, create them on the fly
+
+- in javascript objects are functions
+- Function: a special type of object
+- can attach properties and methods to a function
+- You can attach primitive, object, and function
+- Name property and code property 
+-  
