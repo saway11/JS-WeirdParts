@@ -1,0 +1,8 @@
+Understanding Closures
+fs [2]()
+excecution context
+
+i=3, arr[f0,f2,f2]
+
+Global execution Context
+buildFunctions(),fs
