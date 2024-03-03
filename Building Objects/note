@@ -1,0 +1,4 @@
+function constructors: 
+a normal function that is used to construct objects
+
+The 'this' variavle points a new empty object, and that object is returned from the function automatically.
