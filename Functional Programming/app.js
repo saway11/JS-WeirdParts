@@ -1,8 +1,10 @@
 function mapForEach(arr, fn) {
 
     var newArr = [];
+    // loop over the new arr
     for (var i=0; i < arr.length; i++) {
         newArr.push(
+            // function
             fn(arr[1])
         )
     };
